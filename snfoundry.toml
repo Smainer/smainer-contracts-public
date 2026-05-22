@@ -1,0 +1,10 @@
+
+[sncast.sepolia]
+account = "smainer-deployed"
+accounts-file = "/home/smainer/.starknet_accounts/starknet_open_zeppelin_accounts.json" 
+network = "sepolia"
+
+[sncast.mainnet]
+account = "smainer-mainnet"
+accounts-file = "/home/smainer/.starknet_accounts/starknet_open_zeppelin_accounts.json"
+network = "mainnet"

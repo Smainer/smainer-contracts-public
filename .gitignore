@@ -1,0 +1,16 @@
+target/
+*.swp
+*.swo
+.DS_Store
+
+# Starknet account and keystore files (sensitive)
+account*.json
+keystore*.json
+
+# Starknet foundry cache
+.snfoundry_cache/
+
+# Local scratch/broken test variants
+tests/*.broken
+config.bat
+node_modules
